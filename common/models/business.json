@@ -1,0 +1,1 @@
+{"name":"Business","base":"PersistedModel","properties":{"businessName":"string","businessDesc":"string","businessType":"string","specialty":"string","location":[{"address":"string","city":"string","zip":"string","openHours":[{"day":"string","hours":"string"}]}],"id":{"id":1,"generated":true,"updateOnly":true}}}

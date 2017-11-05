@@ -1,0 +1,26 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "coffeeshop": {
+    "host": "ds149335.mlab.com",
+    "port": 49335,
+    "url": "mongodb://apiuser:apiuser@ds149335.mlab.com:49335/coffeeshop",
+    "database": "coffeeshop",
+    "password": "apiuser",
+    "name": "coffeeshop",
+    "user": "apiuser",
+    "connector": "mongodb"
+  },
+  "business": {
+    "host": "ds149335.mlab.com",
+    "port": 49335,
+    "url": "mongodb://apiuser:apiuser@ds149335.mlab.com:49335/coffeeshop",
+    "database": "coffeeshop",
+    "password": "apiuser",
+    "name": "coffeeshop",
+    "user": "apiuser",
+    "connector": "mongodb"
+  }
+}

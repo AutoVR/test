@@ -1,0 +1,1 @@
+{"name":"Employee","base":"PersistedModel","properties":{"email":"string","firstName":"string","lastName":"string","skill":["string"],"preference":{"cities":["string"],"timings":[{"day":["string"],"beginTime":"string","endTime":"string"}]},"references":[{"businessName":"string","review":"object"}],"id":{"id":1,"generated":true,"updateOnly":true}}}
